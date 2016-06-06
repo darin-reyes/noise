@@ -1,0 +1,16 @@
+*{
+    margin: 0 auto;
+}
+body{
+    background: black;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 20px;
+    line-height: 1.5em;
+}
+canvas{
+    width: 100%;
+}
+p {
+    text-align: center;
+}
